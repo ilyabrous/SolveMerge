@@ -10,13 +10,16 @@ fun main() {
     firstFunction()
 }
 
+fun veryImportantFunction2() {
 
-fun firstThird() {
+}
+
+fun firstThirdbLABLABLA() {
 
 }
 
 
-fun mainFunction() {
+fun mainFunctionVFKLGJJHGR() {
 
 }
 
