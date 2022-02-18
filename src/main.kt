@@ -13,6 +13,11 @@ fun firstSecond() {
 
 }
 
+
+fun veryImportantFunction() {
+
+}
+
 fun firstThird() {
 
 }
