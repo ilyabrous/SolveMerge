@@ -15,6 +15,9 @@ fun firstThird() {
 
 }
 
+fun myFeatFun2() {
+
+}
 
 fun mainFunction() {
 
