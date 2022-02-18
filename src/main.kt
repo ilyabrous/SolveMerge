@@ -13,3 +13,8 @@ fun firstSecond() {
 fun firstThird() {
 
 }
+
+
+fun mainFunction() {
+
+}
