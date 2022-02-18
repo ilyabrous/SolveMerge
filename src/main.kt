@@ -1,5 +1,8 @@
 fun main() {
-
+    firstFunction()
+    firstFunction()
+    firstFunction()
+    firstFunction()
 }
 
 fun firstFunction() {
