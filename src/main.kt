@@ -9,3 +9,7 @@ fun firstFunction() {
 fun firstSecond() {
 
 }
+
+fun firstThird() {
+
+}
